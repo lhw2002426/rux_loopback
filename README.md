@@ -4,4 +4,4 @@ In the root dir of ruxos, run:
 
 `git clone https://github.com/lhw2002426/rux_loopback.git ./apps/c/loopback`
 
-`make A=apps/c/httpserver_loopback ARCH=aarch64 LOG=debug NET=y SMP=1 run`
+`make A=apps/c/loopback ARCH=aarch64 LOG=debug NET=y SMP=1 run`

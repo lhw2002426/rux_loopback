@@ -1,1 +1,1 @@
-app-objs := httpserver.o
+app-objs := loopback.o
