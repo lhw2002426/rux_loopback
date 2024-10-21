@@ -1,4 +1,12 @@
-alloc
 paging
-net
+alloc 
+irq
+musl
 multitask
+fs
+pipe
+poll
+rtc
+signal
+virtio-9p
+net
